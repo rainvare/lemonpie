@@ -1,2 +1,2 @@
 # lemonpie
-proyecyo de Frontend I
+proyecto de Frontend I
